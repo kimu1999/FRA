@@ -23,22 +23,20 @@ FRA (Face-Recognition-Attendance)
 
 주요 기능 
 1. Main.py Process & GUI 
-   -
+   - 메인 페이지 
 
 2. student.py Process & GUI 
-   - 
+   - 학생 정보 등록 및 관리 
 
 3. face_test.py Process & GUI 
-   - 
+   - 얼굴 인식 테스트 하며, 인식하면 attendance.py로 정보 제공
 
 4. face_registration.py Process & GUI
-   - 
+   - 학생들의 얼굴을 등록
 
 5. attendance.py Process & GUI 
-   - 
+   - 얼굴이 인식된 학생의 이름과 시간을 제공
 
-6. DataBase Process
-   - 
 
 아쉬운 점 
  - 학원 건물이 공공기관이라 네트워크 환경이 폐쇄적인 점
